@@ -332,11 +332,11 @@ article span + div{
 }
 
 article[title="item1"]{background-image: url("../image/Homebackground.png");}
-article[title="item2"]{ background-image: url("");}
+article[title="item2"]{ background-image: url("../image/BChap1.png");}
 article[title="item3"]{ background-image: url("../image/1Postcard.png");}
-article[title="item4"]{ background-image: url("");}
+article[title="item4"]{ background-image: url("../image/BChap1.png");}
 article[title="item5"]{ background-image: url("../image/1Postcard.png");}
-article[title="item6"]{ background-image: url("");}
+article[title="item6"]{ background-image: url("../image/BChap1.png");}
 article[title="item7"]{ background-image: url("../image/1Postcard.png");}
-article[title="item8"]{ background-image: url("");}
+article[title="item8"]{ background-image: url("../image/BChap1.png");}
 article[title="item9"]{ background-image: url("../image/1Postcard.png");}
