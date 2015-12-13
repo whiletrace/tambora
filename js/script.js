@@ -1,5 +1,5 @@
 $typetype = function(){
-  console.log("TT HERE");
+  
   $("#one").typetype("Today was a great day, we finaly came upon the Island of Sambawa It is located in Indonesia 400 miles South of Java. We are looking forward to explore the Island and all of it's beauty", {
     e: 0, // error rate. (use e=0 for perfect typing)
     t: 30, // interval between keypresses

@@ -155,7 +155,7 @@ $.fn.flipcarousel = function(options) {
             i = to;
 
         });
-    console.log("calling tt");
+   
      
      $typetype();
 
